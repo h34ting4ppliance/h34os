@@ -14,7 +14,7 @@
     
     system-$
   
-H34OS is an hobbyist project operating system fully programmed in Assembly x86 and with very awful optimization. I just code it as long as it works lmao
+Just a simple OS that is literally useless.
 -----
 
 At the time of writing, the 0.1 of the operating system is not done because the list of features isn't complete :
@@ -27,8 +27,3 @@ At the time of writing, the 0.1 of the operating system is not done because the 
   - [ ] Some fancy shell commands
  
  **This project can't be considered done until all of those features are done.**  
- Actually the operating system is working on 16-bits real mode and I am only using
- the actual Assembly knowledge I have for now.  
- 
- A new version in 32-bits protected is planned, which is gonna be programmed mainly
- in C.
